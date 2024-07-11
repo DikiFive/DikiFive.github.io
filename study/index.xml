@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study on dikifive&#39;s Blog</title>
-    <link>https://dikifive.github.io/study/</link>
+    <link>http://localhost:1313/study/</link>
     <description>Recent content in Study on dikifive&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dikifive.github.io/study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>t</title>
-      <link>https://dikifive.github.io/study/test/</link>
+      <link>http://localhost:1313/study/test/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://dikifive.github.io/study/test/</guid>
+      <guid>http://localhost:1313/study/test/</guid>
       <description>test</description>
     </item>
   </channel>
