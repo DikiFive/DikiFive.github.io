@@ -1,2 +1,1 @@
-User-Agent: *
-Sitemap: https://dikifive.github.io/sitemap.xml
+User-agent: *
