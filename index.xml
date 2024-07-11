@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DKFV on dikifive&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dikifive.github.io/</link>
     <description>Recent content in DKFV on dikifive&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
     <lastBuildDate>Thu, 11 Jul 2024 14:36:16 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dikifive.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://dikifive.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 11 Jul 2024 14:36:16 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://dikifive.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     <item>
       <title>6</title>
-      <link>http://localhost:1313/6/</link>
+      <link>https://dikifive.github.io/6/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/6/</guid>
-      <description>test&#xA;1 1</description>
+      <guid>https://dikifive.github.io/6/</guid>
+      <description>action test</description>
     </item>
     <item>
       <title>t</title>
-      <link>http://localhost:1313/study/test/</link>
+      <link>https://dikifive.github.io/study/test/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/study/test/</guid>
+      <guid>https://dikifive.github.io/study/test/</guid>
       <description>test</description>
     </item>
   </channel>
