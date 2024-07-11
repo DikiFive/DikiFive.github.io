@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Thu, 11 Jul 2024 14:36:16 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dikifive.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://dikifive.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 11 Jul 2024 14:36:16 +0800</pubDate>
-      <guid>https://dikifive.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     <item>
       <title>6</title>
       <link>https://dikifive.github.io/6/</link>
