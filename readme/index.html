@@ -145,9 +145,9 @@
 
                   
                   <span class="file-info-divider"></span>
-                  Modified <relative-time datetime="Fri, 12 Jul 2024 00:35:12 &#43;0000"
+                  Modified <relative-time datetime="Fri, 12 Jul 2024 02:13:52 &#43;0000"
                     class="no-wrap">
-                    Fri, 12 Jul 2024 00:35:12 &#43;0000</relative-time>
+                    Fri, 12 Jul 2024 02:13:52 &#43;0000</relative-time>
                   
                 </div>
               </div>
@@ -204,6 +204,24 @@
 <script type="application/javascript" src='https://dikifive.github.io/js/toc.js'></script>
 <link rel="stylesheet" href='https://dikifive.github.io/css/toc.css' />
 
+
+<div id="gitalk-container" class="gitalk-container"></div>
+<link rel="stylesheet" href='https://dikifive.github.io/css/gitalk.css'>
+<script src='https://dikifive.github.io/js/gitalk.min.js'></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'Ov23lioaIJ1jJW6NehLN',
+    clientSecret: 'ff4d5a7e63345dcce5208f051d5b52933bc87355',
+    repo: 'DikiFive.github.io',
+    owner: 'DikiFive',
+    admin: ['DikiFive'],
+    id: eval("location.pathname"), 
+    distractionFreeMode: false 
+  });
+  (function() {
+    gitalk.render('gitalk-container');
+  })();
+</script>
 
 
   <div class="footer container-xl width-full p-responsive">
