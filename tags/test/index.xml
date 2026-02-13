@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on DK_blog</title>
+    <link>https://dikifive.github.io/tags/test/</link>
+    <description>Recent content in Test on DK_blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Nov 2025 14:36:43 +0800</lastBuildDate>
+    <atom:link href="https://dikifive.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hero Cover 视觉效果测试</title>
+      <link>https://dikifive.github.io/posts/hero-cover/</link>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/hero-cover/</guid>
+      <description>这是一个测试页面，用于展示全宽封面图（Hero Image）的渲染效果。标题和元数据应该叠加在图片上方。</description>
+    </item>
+  </channel>
+</rss>

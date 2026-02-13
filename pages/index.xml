@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on DK_blog</title>
+    <link>https://dikifive.github.io/pages/</link>
+    <description>Recent content in Pages on DK_blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://dikifive.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://dikifive.github.io/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/music/</guid>
+      <description>&lt;p&gt;这里展示最近的音乐动态：上方为「最近一周」与「累计」高频播放榜单，以下为「我喜欢的音乐」最近同步。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timeline</title>
+      <link>https://dikifive.github.io/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/timeline/</guid>
+      <description>Timeline</description>
+    </item>
+    <item>
+      <title>关于本站</title>
+      <link>https://dikifive.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/about/</guid>
+      <description>&lt;p&gt;你好，我是本站作者。这是我的个人博客：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;记录学习笔记与技术分享&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;公布我的在读书清单（见“在读书”页面）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 Hugo + PaperMod 构建并通过 GitHub Pages 发布&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你可以从“Posts”开始浏览文章，或前往“Reading”查看当前在读。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>在读书</title>
+      <link>https://dikifive.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/reading/</guid>
+      <description>&lt;p&gt;这里将展示当前在读书清单。可在 Front Matter 的 books 数组中维护条目（title、author、status、progress、updatedAt、link）。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

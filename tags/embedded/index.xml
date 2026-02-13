@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Embedded on DK_blog</title>
+    <link>https://dikifive.github.io/tags/embedded/</link>
+    <description>Recent content in Embedded on DK_blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Nov 2025 15:18:28 +0800</lastBuildDate>
+    <atom:link href="https://dikifive.github.io/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何在VScode上使用EIDE插件来开发STM32单片机</title>
+      <link>https://dikifive.github.io/posts/vscode-eide-stm32/</link>
+      <pubDate>Thu, 29 May 2025 12:37:16 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/vscode-eide-stm32/</guid>
+      <description>&lt;h2 id=&#34;事前准备&#34;&gt;事前准备&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;安装好 VS Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 Keil（建议版本 &amp;gt;= 5.36）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 EIDE 插件&lt;/p&gt;
+&lt;p&gt;在 VS Code 的扩展商店中搜索 &amp;ldquo;EIDE&amp;rdquo; 并安装。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

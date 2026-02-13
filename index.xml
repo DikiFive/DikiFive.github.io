@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DK_blog</title>
+    <link>https://dikifive.github.io/</link>
+    <description>Recent content on DK_blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Feb 2026 09:53:55 +0000</lastBuildDate>
+    <atom:link href="https://dikifive.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://dikifive.github.io/posts/my-new-post/</link>
+      <pubDate>Thu, 20 Nov 2025 14:20:46 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/my-new-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hero Cover 视觉效果测试</title>
+      <link>https://dikifive.github.io/posts/hero-cover/</link>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/hero-cover/</guid>
+      <description>这是一个测试页面，用于展示全宽封面图（Hero Image）的渲染效果。标题和元数据应该叠加在图片上方。</description>
+    </item>
+    <item>
+      <title>迅软 DSE Linux V6.5 版本安装卸载与命令指南</title>
+      <link>https://dikifive.github.io/posts/dse-linux-install/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/posts/dse-linux-install/</guid>
+      <description>迅软 DSE Linux V6.5</description>
+    </item>
+    <item>
+      <title>你好，世界</title>
+      <link>https://dikifive.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/posts/hello-world/</guid>
+      <description>第一篇示例文章,验证列表与详情、导航与标签。</description>
+    </item>
+    <item>
+      <title>如何在VScode上使用EIDE插件来开发STM32单片机</title>
+      <link>https://dikifive.github.io/posts/vscode-eide-stm32/</link>
+      <pubDate>Thu, 29 May 2025 12:37:16 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/vscode-eide-stm32/</guid>
+      <description>&lt;h2 id=&#34;事前准备&#34;&gt;事前准备&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;安装好 VS Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 Keil（建议版本 &amp;gt;= 5.36）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 EIDE 插件&lt;/p&gt;
+&lt;p&gt;在 VS Code 的扩展商店中搜索 &amp;ldquo;EIDE&amp;rdquo; 并安装。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>九十元大屏触控klipper pad 安装教程——使用二手sureface rt</title>
+      <link>https://dikifive.github.io/posts/surface-rt-klipper/</link>
+      <pubDate>Thu, 18 Jul 2024 10:56:30 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/surface-rt-klipper/</guid>
+      <description>&lt;h2 id=&#34;surface-rt-安装-klippermoonrakerfluidd-和-klipperscreen-指南&#34;&gt;Surface RT 安装 Klipper、Moonraker、Fluidd 和 KlipperScreen 指南&lt;/h2&gt;
+&lt;p&gt;本教程将引导您通过一系列步骤，将您的 Surface RT 设备转变为 Klipper 控制平板，安装包括 Klipper、Moonraker、Fluidd 和 KlipperScreen 在内的软件。&lt;/p&gt;
+&lt;h2 id=&#34;1-原作信息&#34;&gt;1. 原作信息&lt;/h2&gt;
+&lt;p&gt;以下资源提供了安装所需的信息和文件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;视频教程：&lt;a href=&#34;https://youtu.be/hv79HNvNFqE?si=HOvAYXr6eaFtHLSw&#34;&gt;How to Make a Klipper Tablet for $20 in Five MINUTES!_youtube&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub 网址：&lt;a href=&#34;https://github.com/theck32/Klipper-for-3d-printer-on-Microsoft-Surface-RT.git&#34;&gt;Klipper-for-3d-printer-on-Microsoft-Surface-RT-GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;越狱教程：&lt;a href=&#34;https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb&#34;&gt;All-in-on jailbreak package for Tegra based Windows RT tablets&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本人搬运国内B站视频：&lt;a href=&#34;https://www.bilibili.com/video/BV133bkeqEvs/?share_source=copy_web&amp;amp;vd_source=b8f6d2bd85f4f67ed49ae1916ceb8b49&#34;&gt;90元klipper大屏上位机（surface rt）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-surface-rt-越狱&#34;&gt;2. Surface RT 越狱&lt;/h2&gt;
+&lt;p&gt;首先，您需要对 Surface RT 设备进行越狱。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;越狱文件下载&lt;/strong&gt;：&lt;a href=&#34;https://pan.quark.cn/s/ba434b125b12&#34;&gt;Tegra_Jailbreak_USB&lt;/a&gt;，提取码：FrPJ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;准备 U 盘&lt;/strong&gt;：将 U 盘格式化为 FAT32 格式，并将下载的越狱文件解压到 U 盘根目录下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;启动设备&lt;/strong&gt;：将 U 盘插入 Surface RT 设备，并从 U 盘启动设备。若 Surface RT 仅有一个 USB 口，可能需要拓展坞。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华硕B650M-PLUS WIFI TUF 重炮手 出现主板卡BOOT灯错误 以及 无视频信号 问题解决办法汇总</title>
+      <link>https://dikifive.github.io/posts/asus-b650m-boot-no-signal-fix/</link>
+      <pubDate>Wed, 17 Jul 2024 12:37:16 +0800</pubDate>
+      <guid>https://dikifive.github.io/posts/asus-b650m-boot-no-signal-fix/</guid>
+      <description>&lt;h2 id=&#34;华硕b650m-plus-wifi-tuf-重炮手主板问题解决方案&#34;&gt;华硕B650M-PLUS WIFI TUF 重炮手主板问题解决方案&lt;/h2&gt;
+&lt;p&gt;在安装系统时，华硕B650M-PLUS WIFI TUF 重炮手主板出现BOOT灯错误和无视频信号。经排查，使用HDMI线代替DP线后问题解决。&lt;/p&gt;
+&lt;h2 id=&#34;故障排查步骤&#34;&gt;故障排查步骤&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;恢复BIOS出厂设置&lt;/strong&gt;：若能进入BIOS。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;更新BIOS&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;放电重置&lt;/strong&gt;：若无法进入BIOS，尝试取出主板电池放电。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;最小系统测试&lt;/strong&gt;：若有核显，移除显卡，仅保留一根内存条，减少外设，尝试进入BIOS。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;更换视频线&lt;/strong&gt;：尝试使用HDMI线连接显示器，解决可能的兼容性问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;检查CPU散热器&lt;/strong&gt;：确保散热器螺丝不过紧，避免压迫主板。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;最终方案&#34;&gt;最终方案&lt;/h2&gt;
+&lt;p&gt;如果以上步骤均无效，建议联系售后服务进行检修。在保修期内，非人为损坏可免费修复。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://dikifive.github.io/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/music/</guid>
+      <description>&lt;p&gt;这里展示最近的音乐动态：上方为「最近一周」与「累计」高频播放榜单，以下为「我喜欢的音乐」最近同步。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timeline</title>
+      <link>https://dikifive.github.io/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/timeline/</guid>
+      <description>Timeline</description>
+    </item>
+    <item>
+      <title>关于本站</title>
+      <link>https://dikifive.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/about/</guid>
+      <description>&lt;p&gt;你好，我是本站作者。这是我的个人博客：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;记录学习笔记与技术分享&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;公布我的在读书清单（见“在读书”页面）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 Hugo + PaperMod 构建并通过 GitHub Pages 发布&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你可以从“Posts”开始浏览文章，或前往“Reading”查看当前在读。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>在读书</title>
+      <link>https://dikifive.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/reading/</guid>
+      <description>&lt;p&gt;这里将展示当前在读书清单。可在 Front Matter 的 books 数组中维护条目（title、author、status、progress、updatedAt、link）。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

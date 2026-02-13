@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on DK_blog</title>
+    <link>https://dikifive.github.io/tags/</link>
+    <description>Recent content in Tags on DK_blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Nov 2025 15:18:28 +0800</lastBuildDate>
+    <atom:link href="https://dikifive.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://dikifive.github.io/tags/notes/</link>
+      <pubDate>Thu, 20 Nov 2025 14:20:46 +0800</pubDate>
+      <guid>https://dikifive.github.io/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://dikifive.github.io/tags/test/</link>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0800</pubDate>
+      <guid>https://dikifive.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://dikifive.github.io/tags/tutorial/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://dikifive.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded</title>
+      <link>https://dikifive.github.io/tags/embedded/</link>
+      <pubDate>Thu, 29 May 2025 12:37:16 +0800</pubDate>
+      <guid>https://dikifive.github.io/tags/embedded/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
