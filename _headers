@@ -1,0 +1,14 @@
+# Cloudflare Pages 响应头配置（依据 docs/audits/2026-11-10-repo-audit.md A-09、A-10）。
+# 仅 Cloudflare Pages 生效：GitHub Pages 不支持自定义响应头，dikifive.github.io 会忽略本文件。
+# CSP 当前为 Report-Only（只上报不拦截），未启用强制 CSP。
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://giscus.app; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://giscus.app; frame-src https://giscus.app; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'self'
+
+# Hugo 指纹资源（文件名含内容哈希）可长期缓存；文件名变化即 URL 变化。
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
