@@ -1,0 +1,42 @@
+# Cloudflare Pages 响应头配置（依据 docs/audits/2026-11-10-repo-audit.md A-09、A-10）。
+# 仅 Cloudflare Pages 生效：GitHub Pages 不支持自定义响应头，dikifive.github.io 会忽略本文件。
+# CSP 当前为 Report-Only（只上报不拦截），未启用强制 CSP。
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://giscus.app; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://giscus.app; frame-src https://giscus.app; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'self'
+
+# Hugo 指纹资源（文件名含内容哈希）可长期缓存；文件名变化即 URL 变化。
+# 下面四个长缓存块都以 `! Cache-Control` 开头（Cloudflare 的 detach 语法）。
+# 理由：将来若给 `/*` 加宽泛缓存策略，没有 detach 就会与本块拼接出两条互相冲突的
+# Cache-Control 指令；Cloudflare 对重复指令的处理不是「后者覆盖前者」。
+/assets/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+# /js/ 只放指纹产物：share.min.<hash>.js、toc-highlight.min.<hash>.js、search-core.<hash>.mjs。
+# 未哈希脚本不得放进 /js/，否则长缓存会让更新不可见。
+/js/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+# /images/music/ 的 27 个 webp 由 assets/images/music/ 派生，文件名含 `_hu_<hash>`；
+# /images/diagrams/ 是 2 个 sha256 指纹 SVG。两个目录只放内容寻址文件。
+# 守卫：test_site_output.py 的反向断言要求这两个目录的文件名全部含指纹。
+/images/music/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/diagrams/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+# 例外：登记的是 `images` 本目录（`public/images/` 根目录 3 个 `_hu_` 派生图），
+# 不得套长缓存。Cloudflare 的 `*` 跨目录匹配，一条 `/images/*` 会连 `images/reading/`
+# 的 2 个静态封面（murphy-law.svg、sample-cover.svg，static/ 直出、文件名不含哈希）
+# 一起钉住，换图对回访用户不可见。`images/reading/` 自身无需登记：它不含内容寻址
+# 文件，从不进入「含指纹目录」清单。
+# 例外清单由 test_site_output.py 的 CACHE_EXCEPTIONS 登记，不是注释里的约定。

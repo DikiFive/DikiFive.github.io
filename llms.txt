@@ -1,0 +1,17 @@
+# DK_blog
+
+> 个人技术博客：学习笔记、技术分享、在读书
+
+## 主要分区
+
+- [文章](https://dikifive.github.io/posts/)
+- [时间线](https://dikifive.github.io/timeline/)
+- [标签](https://dikifive.github.io/tags/)
+
+## 文章
+
+- [迅软 DSE Linux V6.5 (x64+x86) 版本安装卸载与命令指南](https://dikifive.github.io/posts/dse-linux-install/): 迅软 DSE Linux V6.5
+- [你好，世界](https://dikifive.github.io/posts/hello-world/): 第一篇示例文章,验证列表与详情、导航与标签。
+- [如何在VScode上使用EIDE插件来开发STM32单片机](https://dikifive.github.io/posts/vscode-eide-stm32/): 事前准备 安装好 VS Code 安装 Keil（建议版本 >= 5.36） 安装 EIDE 插件 在 VS Code 的扩展商店中搜索 “EIDE” 并安装。
+- [九十元大屏触控klipper pad 安装教程——使用二手sureface rt](https://dikifive.github.io/posts/surface-rt-klipper/): Surface RT 安装 Klipper、Moonraker、Fluidd 和 KlipperScreen 指南 本教程将引导您通过一系列步骤，将您的 Surface RT 设备转变为 Klipper 控制平板，安装包括 Klipper、Moonraker、Fluidd 和 KlipperScreen 在内的软件。
+- [华硕B650M-PLUS WIFI TUF 重炮手 出现主板卡BOOT灯错误 以及 无视频信号 问题解决办法汇总](https://dikifive.github.io/posts/asus-b650m-boot-no-signal-fix/): 华硕B650M-PLUS WIFI TUF 重炮手主板问题解决方案 在安装系统时，华硕B650M-PLUS WIFI TUF 重炮手主板出现BOOT灯错误和无视频信号。经排查，使用HDMI线代替DP线后问题解决。
