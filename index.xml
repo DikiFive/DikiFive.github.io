@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>DK_blog</title><link>https://dikifive.github.io/</link><description>Recent content on DK_blog</description><image><title>DK_blog</title><url>https://dikifive.github.io/%E7%89%9B%E9%A9%AC.png</url><link>https://dikifive.github.io/%E7%89%9B%E9%A9%AC.png</link></image><generator>Hugo -- 0.169.0</generator><language>zh-cn</language><lastBuildDate>Sat, 28 Nov 2026 03:07:51 +0800</lastBuildDate><atom:link href="https://dikifive.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Music</title><link>https://dikifive.github.io/music/</link><pubDate>Sat, 28 Nov 2026 03:07:51 +0800</pubDate><guid>https://dikifive.github.io/music/</guid><description>&lt;!-- Music data auto-synced from Netease Cloud Music --&gt;
+&lt;p&gt;这里展示最近在听的音乐，数据由网易云音乐「听歌排行」每周自动同步。&lt;/p&gt;</description></item><item><title>迅软 DSE Linux V6.5 (x64+x86) 版本安装卸载与命令指南</title><link>https://dikifive.github.io/posts/dse-linux-install/</link><pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/posts/dse-linux-install/</guid><description>迅软 DSE Linux V6.5</description></item><item><title>你好，世界</title><link>https://dikifive.github.io/posts/hello-world/</link><pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/posts/hello-world/</guid><description>第一篇示例文章,验证列表与详情、导航与标签。</description></item><item><title>如何在VScode上使用EIDE插件来开发STM32单片机</title><link>https://dikifive.github.io/posts/vscode-eide-stm32/</link><pubDate>Thu, 29 May 2025 12:37:16 +0800</pubDate><guid>https://dikifive.github.io/posts/vscode-eide-stm32/</guid><description>&lt;h2 id="事前准备"&gt;事前准备&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;安装好 VS Code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 Keil（建议版本 &amp;gt;= 5.36）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 EIDE 插件&lt;/p&gt;
+&lt;p&gt;在 VS Code 的扩展商店中搜索 &amp;ldquo;EIDE&amp;rdquo; 并安装。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>九十元大屏触控klipper pad 安装教程——使用二手sureface rt</title><link>https://dikifive.github.io/posts/surface-rt-klipper/</link><pubDate>Thu, 18 Jul 2024 10:56:30 +0800</pubDate><guid>https://dikifive.github.io/posts/surface-rt-klipper/</guid><description>&lt;h2 id="surface-rt-安装-klippermoonrakerfluidd-和-klipperscreen-指南"&gt;Surface RT 安装 Klipper、Moonraker、Fluidd 和 KlipperScreen 指南&lt;/h2&gt;
+&lt;p&gt;本教程将引导您通过一系列步骤，将您的 Surface RT 设备转变为 Klipper 控制平板，安装包括 Klipper、Moonraker、Fluidd 和 KlipperScreen 在内的软件。&lt;/p&gt;</description></item><item><title>华硕B650M-PLUS WIFI TUF 重炮手 出现主板卡BOOT灯错误 以及 无视频信号 问题解决办法汇总</title><link>https://dikifive.github.io/posts/asus-b650m-boot-no-signal-fix/</link><pubDate>Wed, 17 Jul 2024 12:37:16 +0800</pubDate><guid>https://dikifive.github.io/posts/asus-b650m-boot-no-signal-fix/</guid><description>&lt;h2 id="华硕b650m-plus-wifi-tuf-重炮手主板问题解决方案"&gt;华硕B650M-PLUS WIFI TUF 重炮手主板问题解决方案&lt;/h2&gt;
+&lt;p&gt;在安装系统时，华硕B650M-PLUS WIFI TUF 重炮手主板出现BOOT灯错误和无视频信号。经排查，使用HDMI线代替DP线后问题解决。&lt;/p&gt;</description></item><item><title>Timeline</title><link>https://dikifive.github.io/timeline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/timeline/</guid><description>Timeline</description></item><item><title>关于本站</title><link>https://dikifive.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/about/</guid><description>&lt;p&gt;你好，我是本站作者。这是我的个人博客：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;记录学习笔记与技术分享&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;公布我的在读书清单（见“在读书”页面）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 Hugo + PaperMod 构建并通过 GitHub Pages 发布&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你可以从“Posts”开始浏览文章，或前往“Reading”查看当前在读。&lt;/p&gt;</description></item><item><title>互动</title><link>https://dikifive.github.io/interact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/interact/</guid><description>找到我，或者找到同好</description></item><item><title>已读完的书</title><link>https://dikifive.github.io/reading/finished/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/reading/finished/</guid><description>按读完年份归档的全部已读书目。</description></item><item><title>友链</title><link>https://dikifive.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/links/</guid><description>一些我常看、常逛的地方</description></item><item><title>在读书</title><link>https://dikifive.github.io/reading/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dikifive.github.io/reading/</guid><description/></item></channel></rss>
